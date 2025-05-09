@@ -64,8 +64,7 @@ pip install openai-whisper transformers speechrecognition pydub torch pandas sci
 - `deep-translator`: For multi-language translation.
 - `nltk`: For natural language processing.
 
-## **Demo Video**
-Link:- https://drive.google.com/file/d/1ozFfZwHGCenZPrAB5Y_SQubDZMpgBkTg/view?usp=sharing
+
 
 ## **Contributing**
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request. Please ensure that your code is well-tested and documented.
